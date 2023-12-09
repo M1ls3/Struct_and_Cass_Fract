@@ -1,0 +1,17 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\Laba3.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\ref\Laba3.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\Laba3.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\bin\Debug\net5.0\data.txt
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 3\Laba3\obj\Debug\net5.0\refint\Laba3.dll
